@@ -1,0 +1,3 @@
+name = id
+
+ the array is hp,attack,defense,special,special_defense,speed , 16 x 16 pixel art ("x" is clean row")
